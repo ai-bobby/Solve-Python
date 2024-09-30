@@ -1,0 +1,152 @@
+[
+    {
+        "bill_code": 1,
+        "bill_date": "2024-08-21 15:41:22.743434",
+        "customer_code": 1000,
+        "bill_details": [
+            {
+                "bill_details_code": 1,
+                "bill_code": 1,
+                "product_code": 1,
+                "product_count": 5
+            },
+            {
+                "bill_details_code": 2,
+                "bill_code": 1,
+                "product_code": 3,
+                "product_count": 10
+            },
+            {
+                "bill_details_code": 3,
+                "bill_code": 1,
+                "product_code": 2,
+                "product_count": 4
+            }
+        ]
+    },
+    {
+        "bill_code": 2,
+        "bill_date": "2024-08-21 15:41:22.743434",
+        "customer_code": 1001,
+        "bill_details": [
+            {
+                "bill_details_code": 1,
+                "bill_code": 2,
+                "product_code": 1,
+                "product_count": 5
+            },
+            {
+                "bill_details_code": 2,
+                "bill_code": 2,
+                "product_code": 3,
+                "product_count": 10
+            },
+            {
+                "bill_details_code": 3,
+                "bill_code": 2,
+                "product_code": 2,
+                "product_count": 4
+            }
+        ]
+    },
+    {
+        "bill_code": 3,
+        "bill_date": "2024-08-21 15:41:22.743434",
+        "customer_code": 1002,
+        "bill_details": [
+            {
+                "bill_details_code": 1,
+                "bill_code": 3,
+                "product_code": 1,
+                "product_count": 5
+            },
+            {
+                "bill_details_code": 2,
+                "bill_code": 3,
+                "product_code": 3,
+                "product_count": 10
+            },
+            {
+                "bill_details_code": 3,
+                "bill_code": 3,
+                "product_code": 2,
+                "product_count": 4
+            }
+        ]
+    },
+    {
+        "bill_code": 1,
+        "bill_date": "2024-08-21 15:41:35.257414",
+        "customer_code": 1000,
+        "bill_details": [
+            {
+                "bill_details_code": 1,
+                "bill_code": 1,
+                "product_code": 1,
+                "product_count": 5
+            },
+            {
+                "bill_details_code": 2,
+                "bill_code": 1,
+                "product_code": 3,
+                "product_count": 10
+            },
+            {
+                "bill_details_code": 3,
+                "bill_code": 1,
+                "product_code": 2,
+                "product_count": 4
+            }
+        ]
+    },
+    {
+        "bill_code": 2,
+        "bill_date": "2024-08-21 15:41:35.257414",
+        "customer_code": 1001,
+        "bill_details": [
+            {
+                "bill_details_code": 1,
+                "bill_code": 2,
+                "product_code": 1,
+                "product_count": 5
+            },
+            {
+                "bill_details_code": 2,
+                "bill_code": 2,
+                "product_code": 3,
+                "product_count": 10
+            },
+            {
+                "bill_details_code": 3,
+                "bill_code": 2,
+                "product_code": 2,
+                "product_count": 4
+            }
+        ]
+    },
+    {
+        "bill_code": 3,
+        "bill_date": "2024-08-21 15:41:35.257414",
+        "customer_code": 1002,
+        "bill_details": [
+            {
+                "bill_details_code": 1,
+                "bill_code": 3,
+                "product_code": 1,
+                "product_count": 5
+            },
+            {
+                "bill_details_code": 2,
+                "bill_code": 3,
+                "product_code": 3,
+                "product_count": 10
+            },
+            {
+                "bill_details_code": 3,
+                "bill_code": 3,
+                "product_code": 2,
+                "product_count": 4
+            }
+        ]
+    }
+]

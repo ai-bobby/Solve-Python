@@ -1,0 +1,26 @@
+[{
+    "productCode": 1,
+    "productName": "CPU",
+    "price": 1450000,
+    "productGroupName": "Computer"
+},
+{
+    "productCode": 2,
+    "productName": "Galaxy S9",
+    "price": 6800000,
+    "productGroupName": "Mobile"
+},
+{
+    "productCode": 3,
+    "productName": "RAM",
+    "price": 980000,
+    "productGroupName": "Computer"
+},
+{
+    "productCode": 4,
+    "productName": "HDD",
+    "price": 760000,
+    "productGroupName": "Computer"
+}
+]
+

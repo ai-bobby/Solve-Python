@@ -1,0 +1,32 @@
+[
+    {
+        "customerId": 10000,
+        "name": "mehdi",
+        "family": "abbasi",
+        "mobileNumber": "091200000"
+    },
+    {
+        "customerId": 10001,
+        "name": "mehdi",
+        "family": "abbasi",
+        "mobileNumber": "091333333"
+    },
+    {
+        "customerId": 10002,
+        "name": "ali",
+        "family": "mohammadi",
+        "mobileNumber": "0915555555"
+    },
+    {
+        "customerId": 10003,
+        "name": "reza",
+        "family": "tavakoli",
+        "mobileNumber": "091777777"
+    },
+    {
+        "customerId": 10004,
+        "name": "ahmad",
+        "family": "sadeghi",
+        "mobileNumber": "093555555"
+    }
+]
